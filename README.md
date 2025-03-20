@@ -10,6 +10,6 @@ I’m learning web development and improving with every project. This website is
 
 ## Contact Me  
 If you like my work or want to collaborate, feel free to reach out:  
-📧 **[YourEmail@example.com]**  
+📧 **[freelance369@gmail.com]**  
 
 I’ll keep updating this site with new ideas and improvements — stay tuned!
